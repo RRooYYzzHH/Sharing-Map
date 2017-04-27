@@ -1,0 +1,6 @@
+framework module Pods_shareMap {
+  umbrella header "Pods-shareMap-umbrella.h"
+
+  export *
+  module * { export * }
+}
